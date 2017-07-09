@@ -1,0 +1,5 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,Latency,IdleTime,Connect
+1484044226477,646,Home_GotoLoginPage,200,OK,Thread Group 1-1,text,true,,3839,211,1,1,646,0,258
+1484044227133,1053,Home_Login,200,OK,Thread Group 1-1,text,true,,34139,880,1,1,352,0,0
+1484044228195,393,Home_GotoHomePage,200,OK,Thread Group 1-1,text,true,,33386,325,1,1,379,0,0
+1484044228589,10554,MkDt_GotoFXRatePage,200,OK,Thread Group 1-1,text,true,,2440964,346,1,1,2611,0,192
